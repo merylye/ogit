@@ -1,0 +1,408 @@
+{
+  "normal tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For diff menu, press shift + 'd'.",
+      "color": "blue"
+    },
+    {
+      "text": "For pull menu, press shift + 'l'.",
+      "color": "blue"
+    },
+    {
+      "text": "For push menu, press shift + 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": "For branch menu, press 'b'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To stage, press 's'.",
+      "color": "blue"
+    },
+    {
+      "text": "To unstage, press 'u'.",
+      "color": "blue"
+    },
+    {
+      "text": "To commit, press 'c'.",
+      "color": "blue"
+    },
+    {
+      "text": "To stage all files, press 'y'.",
+      "color": "blue"
+    },
+    {
+      "text": "To unstage all files, press 'w'.",
+      "color": "blue"
+    },
+    {
+      "text": "To stage, commit, and push all files, press 'a'.",
+      "color": "blue"
+    }
+  ],
+  "diff tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For pull menu, press shift + 'l'.",
+      "color": "blue"
+    },
+    {
+      "text": "For push menu, press shift + 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": "For branch menu, press 'b'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To view diff of staged, press 's'.",
+      "color": "blue"
+    },
+    {
+      "text": "To view diff of tracked, press 't'.",
+      "color": "blue"
+    },
+    {
+      "text": "To view entire diff, press 'a'.",
+      "color": "blue"
+    },
+    {
+      "text": "To view diff of specific file, press 'f'.",
+      "color": "blue"
+    }
+  ],
+  "pull tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For diff menu, press shift + 'd'.",
+      "color": "blue"
+    },
+    {
+      "text": "For push menu, press shift + 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": "For reset menu, press shift + 'r'.",
+      "color": "blue"
+    },
+    {
+      "text": "For stash menu, press shift + 's'.",
+      "color": "blue"
+    }
+  ],
+  "push tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For diff menu, press shift + 'd'.",
+      "color": "blue"
+    },
+    {
+      "text": "For pull menu, press shift + 'l'.",
+      "color": "blue"
+    },
+    {
+      "text": "For branch menu, press 'b'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To push from remote, press 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": "To push from origin/master, press 'u'.",
+      "color": "blue"
+    },
+    {
+      "text": "To push from elsewhere, press 'e'.",
+      "color": "blue"
+    }
+  ],
+  "branch tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For diff menu, press shift + 'd'.",
+      "color": "blue"
+    },
+    {
+      "text": "For pull menu, press shift + 'l'.",
+      "color": "blue"
+    },
+    {
+      "text": "For push menu, press shift + 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To checkout branch, press 'b'.",
+      "color": "blue"
+    },
+    {
+      "text": "To create branch, press 'c'.",
+      "color": "blue"
+    },
+    {
+      "text": "To delete branch, press 'x'.",
+      "color": "blue"
+    }
+  ],
+  "stash tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For diff menu, press shift + 'd'.",
+      "color": "blue"
+    },
+    {
+      "text": "For pull menu, press shift + 'l'.",
+      "color": "blue"
+    },
+    {
+      "text": "For push menu, press shift + 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To stash pop, press 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": "To stash apply, press 'a'.",
+      "color": "blue"
+    }
+  ],
+  "reset tutorial": [
+    {
+      "text": "To quit OGit, press 'q'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "To clear screen, press the space bar.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "Use the up and down arrow keys to navigate over files on which you want to perform actions.",
+      "color": "blue"
+    },
+    {
+      "text": "Alternatively, you may press 'k' to navigate up and 'j' to navigate down.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For diff menu, press shift + 'd'.",
+      "color": "blue"
+    },
+    {
+      "text": "For pull menu, press shift + 'l'.",
+      "color": "blue"
+    },
+    {
+      "text": "For push menu, press shift + 'p'.",
+      "color": "blue"
+    },
+    {
+      "text": " ",
+      "color": "white"
+    },
+    {
+      "text": "For a hard reset, press 'h'.",
+      "color": "blue"
+    },
+    {
+      "text": "For a soft reset, press 's'.",
+      "color": "blue"
+    }
+  ]
+}
